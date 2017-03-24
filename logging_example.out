@@ -1,0 +1,5 @@
+ERROR:root:Got exception
+Traceback (most recent call last):
+  File "hello.py", line 6, in <module>
+    print '2'+2
+TypeError: cannot concatenate 'str' and 'int' objects
